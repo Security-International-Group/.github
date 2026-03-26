@@ -4,7 +4,7 @@ A global team across four nations, advancing secure Unix software.
 
 ## Our Purpose
 
-We build trustworthy Unix software. Security is not a feature—it is the foundation.
+We build trustworthy Unix software. Security is not a feature, it is the foundation.
 
 We believe in duty, integrity, clarity, and resilience. We do not compromise. We do not hide.
 
@@ -31,7 +31,7 @@ We believe in duty, integrity, clarity, and resilience. We do not compromise. We
 
 - **Region 1** — Infrastructure and compliance
 - **Region 2** — Cryptographic research
-- **Region 3** — Kernel-level security
+- **Region 3** — Kernel level security
 - **Region 4** — Deployment and hardening
 
 Each operates autonomously, accountable to the whole.
