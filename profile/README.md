@@ -10,15 +10,15 @@ We believe in duty, integrity, clarity, and resilience. We do not compromise. We
 
 ## Our Principles
 
-**Security** — We choose the harder path.
+**Security** We choose the harder path.
 
-**Transparency** — Our code is reviewed, our decisions documented.
+**Transparency** Our code is reviewed, our decisions documented.
 
-**Simplicity** — Fewer moving parts, each well-understood.
+**Simplicity** Fewer moving parts, each well-understood.
 
-**Thought** — We build for decades, not quarters.
+**Thought** We build for decades, not quarters.
 
-**Collective** — No person is above scrutiny or praise. 
+**Collective** No person is above scrutiny or praise. 
 
 ## Our Work
 
